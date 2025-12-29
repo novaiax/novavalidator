@@ -1,0 +1,4 @@
+NovaValidator Report
+File analysed : samples/sample_bad.csv
+Status : Totaly FAIL
+Number of errors : 9
